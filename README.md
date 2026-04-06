@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy Mahia :D<br>Estudio ingeniería electrónica<br>Me gusta leer y amo la natación<br>Mi banda favorita es Arctic Monkeys <br>
+Soy Mahia :D<br>Estudio ingeniería electrónica<br>Puedo programar en lenguaje C y C++<br>Estoy aprendiendo a programar en Java<br>
 
 
 ## 🌐 Socials:
